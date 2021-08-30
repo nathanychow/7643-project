@@ -1,2 +1,1 @@
-# finalProject
-Final Project for OMS CS-7643 Deep Learning
+# Final Project for OMS CS-7643 Deep Learning
