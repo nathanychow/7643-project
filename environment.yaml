@@ -1,0 +1,9 @@
+name: 7643-final-project
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pyyaml
+  - pandas
+
